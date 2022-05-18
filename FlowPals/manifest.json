@@ -1,0 +1,53 @@
+{
+"start_url": "/index.html",
+"name": "FlowPals",
+"short-name": "FP",
+"display": "standalone",
+"background_color": "#202225",
+"description": "Let your message flow through the internet.",
+"theme_color": "#202225",
+"scope": ".",
+"orientation": "portrait-primary",
+
+
+"icons": [
+    {
+      "src":"/img/icons/favicon.ico",
+      "type":"image/ico",
+      "sizes":"16x16"
+    },
+
+    {
+      "src":"/img/icons/icon-32x32.png",
+      "type":"image/png",
+      "sizes":"32x32"
+    },
+    {
+      "src":"/img/icons/icon-48x48.png",
+      "type":"image/png",
+      "sizes":"48x48"
+    },
+    {
+      "src":"/img/icons/icon-144x144.png",
+      "type":"image/png",
+      "sizes":"144x144"
+    },
+
+    {
+      "src":"/img/icons/icon-192x192.png",
+      "type":"image/png",
+      "sizes":"192x192"
+    },
+    {
+      "src":"/img/icons/icon-310x310.png",
+      "type":"image/png",
+      "sizes":"310x310"
+    },
+
+    {
+      "src":"/img/icons/icon-512x512.png",
+      "type":"image/png",
+      "sizes":"512x512"
+    }
+  ]
+}
